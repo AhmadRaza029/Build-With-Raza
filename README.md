@@ -3,9 +3,9 @@
 
 A modern, responsive portfolio website showcasing my skills and projects as an aspiring Software Developer. Built with cutting-edge web technologies and featuring a sleek, professional design.
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 
-**URL**: 
+**URL**: https://subtle-chimera-1364eb.netlify.app/
 
 ## ✨ Features
 
