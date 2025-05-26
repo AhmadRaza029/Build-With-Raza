@@ -8,7 +8,7 @@ const Portfolio = () => {
       title: 'Web Based Hostel Allotment System',
       description: 'An intelligent hostel allotment system using Weighted Sum Model (WSM) algorithm to optimize room assignments based on student preferences and criteria.',
       technologies: ['HTML5', 'CSS3', 'JavaScript', 'Appwrite'],
-      github: 'https://github.com',
+      github: 'https://github.com/AhmadRaza029/Hostel-Allotment-System',
       demo: 'https://demo.com',
       image: 'https://images.unsplash.com/photo-1555854877-bab0e6480705?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       category: 'Web Development'
@@ -17,8 +17,8 @@ const Portfolio = () => {
       title: 'Autonomous Fulfillment Optimizer',
       description: 'AI-driven logistics application built with React and TypeScript to optimize warehouse operations and delivery routes using machine learning algorithms.',
       technologies: ['React', 'TypeScript', 'AI/ML', 'Node.js'],
-      github: 'https://github.com',
-      demo: 'https://demo.com',
+      github: 'https://github.com/AhmadRaza029/autofill-AI',
+      demo: 'https://autofill-ai-beta.vercel.app/',
       image: 'https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80',
       category: 'AI/ML'
     },
