@@ -5,7 +5,7 @@ A modern, responsive portfolio website showcasing my skills and projects as an a
 
 ## 🚀 Live Demo 
 
-**URL**: https://prtfolio-wesbsite.netlify.app/
+**URL**: 
 ## ✨ Features
 
 - **Modern Design**: Clean, professional interface with smooth animations
