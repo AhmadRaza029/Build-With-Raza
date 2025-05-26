@@ -5,8 +5,7 @@ A modern, responsive portfolio website showcasing my skills and projects as an a
 
 ## 🚀 Live Demo 
 
-**URL**: https://subtle-chimera-1364eb.netlify.app/
-
+**URL**: https://prtfolio-wesbsite.netlify.app/
 ## ✨ Features
 
 - **Modern Design**: Clean, professional interface with smooth animations
