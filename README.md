@@ -167,6 +167,6 @@ Aspiring Software Developer passionate about creating innovative web solutions.
 
 ---
 
-**Built with ❤️ using MD AHMAD RAZA**
+**Built by MD AHMAD RAZA**
 
 *"Building the future, one line of code at a time"*
